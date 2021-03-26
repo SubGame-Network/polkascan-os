@@ -1,6 +1,15 @@
 # Polkascan Open-Source
 Polkascan Open-Source Application
 
+## SubGame Note
+
+[SubGame](http://www.subgame.org/) fork this project is used to develop research and feed back to the original author. 
+
+Research direction:
+- Substrate FRAME framework
+- Substrate RPC client
+- Substrate application tools
+
 ## Quick deployment (Use hosted Polkascan API endpoints)
 ### Step 1: Clone repository: 
 ```bash
