@@ -10,6 +10,8 @@ Research direction:
 - Substrate RPC client
 - Substrate application tools
 
+for more [details](./subgame.md)
+
 ## Quick deployment (Use hosted Polkascan API endpoints)
 ### Step 1: Clone repository: 
 ```bash
